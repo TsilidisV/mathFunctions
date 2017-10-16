@@ -1,6 +1,6 @@
 
 /**
- * calculates factorial of a given natural number
+ * various mathematical functions
  * 
  * @blueRose
  */
